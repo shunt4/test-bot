@@ -12,10 +12,6 @@ Current bot slash commands:
 /newrole [name]
 /server
 ```
-
-Run `node node deploy-commands.js` to register the commands for the guild, and `node .` to start the bot and login.
-Must create your own config.json file first.
-
 Original code samples from the discord.js guide, repo here:
 https://github.com/discordjs/guide/tree/main/code-samples/creating-your-bot
 
